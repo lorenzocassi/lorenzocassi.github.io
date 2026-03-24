@@ -10,7 +10,7 @@ author_profile: true
 ### 🔄 Ongoing
 
 - [**Yanis Bekhti**](https://yanisbkt-econ.github.io/) (since 2023)  
-  *Premature Deindustrialization, Structural Change and Commodity Boom in Latin America*  
+  *Premature Deindustrialization, Structural Change and Commodity Boom in Developing Countries*  
 
 ### ✅ Completed
 
