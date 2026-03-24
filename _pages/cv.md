@@ -7,58 +7,66 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## 🧑‍🏫 Current Positions
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **2025 – Present** — Director, *Panthéon-Sorbonne Master in Economics*  
+- **2025 – Present** — Director, *Bachelor Degree in Economics – International Track*  
+- **2025 – Present** — Affiliate Researcher, *PRISM, University of Cape Town, South Africa*  
+- **2015 – Present** — Associate Professor, *Paris School of Economics*  
+- **2008 – Present** — Maître de Conférences, *Centre d’Économie de la Sorbonne*, Université Paris 1 Panthéon-Sorbonne  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🎓 Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **2020** — *Habilitation à Diriger des Recherches (HDR)*, Université Paris 1 Panthéon-Sorbonne  
+- **2004** — *Ph.D. in Economics*, Università Politecnica delle Marche (Italy)  
+- **2001** — *Master in Economics and Econometrics*, University of Manchester (UK)  
+- **1998** — *Laurea in Discipline Economiche e Sociali*, Università Bocconi (Italy)  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## 🏛️ Previous Academic Appointments
+
+- **2014 – 2018** — Scientific Delegate, *HCERES*, France
+- **2011 – 2014** — Research Fellow, *Observatoire des Sciences et des Techniques (OST)*, France  
+- **2007 – 2008** — Postdoctoral Researcher, *ADIS*, Université Paris-Sud  
+- **2004 – 2006** — Postdoctoral Researcher, Department of Economics, Università Bocconi  
+- **2001 – 2008** — Research Fellow, *CESPRI*, Università Bocconi  
+- **1998 – 1999** — Research Assistant, *CESPRI*, Università Bocconi  
+
+---
+
+## 🧾 Institutional Responsibilities
+
+- **Since 2025** — Member, Commision Recherche (CR), Université Paris 1 
+- **Since 2018** — Member, Economics Department Board, Université Paris 1  
+- **2020** — Member, Recruitment Committee, Sciences Po Toulouse  
+- **2017 – 2019** — Member, Recruitment Committee, Université Paris 1  
+- **2014 – 2016** — International Relations Coordinator, Economics Department, Université Paris 1  
+- **2012** — Member, Recruitment Committee, Université Paris-Sud  
+- **2010 – 2014** — Member, PhD School Board, Université Paris 1  
+- **2010 – 2011** — Member, Recruitment Committee, Université Paris 1  
+- **2010** — Member, Recruitment Committee, Université Paris-Sud  
+- **2008 – 2011** — International Relations Coordinator, Economics Department, Université Paris 1  
+
+---
+
+## 📝 Referee Activities
+
+Referee for the following journals:
+
+- *Research Policy*  
+- *Industry and Innovation*  
+- *Economics of Innovation and New Technology*  
+- *Journal of Evolutionary Economics*  
+- *Regional Studies*  
+- *Scientometrics*  
+- *Annals of Regional Science*  
+- *Industrial and Corporate Change*  
+- *Technology Analysis & Strategic Management*  
+- *Land Degradation & Development*  
+- *Journal of Science Communication*  
+- *China Economic Review*  
+
+---
